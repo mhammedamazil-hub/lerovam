@@ -1,0 +1,15 @@
+# Dependencies / tooling
+node_modules/
+.venv/
+__pycache__/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Build output (this is a static site; nothing to build, but keep the rule)
+dist/
