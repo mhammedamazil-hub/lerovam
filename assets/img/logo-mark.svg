@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="50 18 146 170" role="img" aria-label="LEROVAM logo mark">
+  <title>LEROVAM mark</title>
+  <!--
+    LEROVAM mark — vector recreation of the official logo provided by the studio:
+    white angular "L" intersected by an electric-blue forward slash.
+    Do not redesign. If the original master artwork file becomes available,
+    replace this file with an export of that master.
+  -->
+  <g>
+    <polygon points="72,58 112,26 112,96 72,121" fill="#FFFFFF"/>
+    <polygon points="64,144 166,144 188,180 86,180" fill="#FFFFFF"/>
+    <polygon points="58,132 158,70 158,102 74,154" fill="#1B7FFF"/>
+  </g>
+</svg>

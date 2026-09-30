@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Update the domain if the production URL differs.
+Sitemap: https://lerovam.com/sitemap.xml
